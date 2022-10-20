@@ -1,2 +1,2 @@
-# [React Redux Cart with RTK](https://react-redux-cart-with-rtk.netlify.app/)
+# [React Redux Cart with RTK](https://react-rtk-persist.netlify.app/)
 ##### Click the above link to see the task
